@@ -1,7 +1,7 @@
 export const gameConfig = {
-  birthdayPersonName: 'Neha',
+  birthdayPersonName: 'Nehaaa',
   senderInitial: 'Pradhan',
-  birthdayWish: 'Hope your birthday is as fun as you are.',
+  birthdayWish: 'Hope your birthday is as fun as you are.😁',
   level1: {
     riddle: 'He made one wish, got exactly what he wanted, and regretted every second. What\'s the toy called?',
     hint: 'Obsession',

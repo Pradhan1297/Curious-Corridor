@@ -22,7 +22,7 @@ function RevealScreen({ onPlayAgain, doorsUnlocked }) {
       </div>
 
       <div className="reveal-text">
-        <h2>Happy Birthday, {gameConfig.birthdayPersonName}!!!</h2>
+        <h2>Happy Birthday, {gameConfig.birthdayPersonName}!!!🥳</h2>
         <p>{gameConfig.birthdayWish}</p>
         <p className="muted-text">— {gameConfig.senderInitial}</p>
       </div>
